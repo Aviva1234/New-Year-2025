@@ -1,0 +1,12 @@
+body{
+    background-image: url('Image20241208112538.gif');
+    color:gold;
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+form input{
+margin: 10px;
+}
+p{
+    color: deeppink;
+}
